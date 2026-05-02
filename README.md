@@ -6,14 +6,14 @@ FrameIt is a lightweight web application for generating customizable Polaroid-st
 
 ## 🌐 Live Demo
 
-🔗 https://keerthi_2007.oneapp.dev/
+🔗https://imagepolaroid.oneapp.dev/
 
 ---
 
 ## 🖼️ Preview
 
 <img width="795" alt="Preview 1" src="https://github.com/user-attachments/assets/837f5e58-6562-4326-98b8-d9f1fb3ac38a" />
-
+---
 <img width="795" alt="Preview 2" src="https://github.com/user-attachments/assets/5665896a-68f2-4246-a442-f55d98846042" />
 
 ---
@@ -69,7 +69,7 @@ FrameIt is a lightweight web application for generating customizable Polaroid-st
 
 This project is deployed as a static web application:
 
-🔗 **Live URL:** https://keerthi_2007.oneapp.dev/
+🔗 **Live URL:**https://imagepolaroid.oneapp.dev/
 
 ### Deployment Details
 - Platform: OneApp  
