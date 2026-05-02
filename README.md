@@ -6,7 +6,8 @@ FrameIt is a lightweight web application for generating customizable Polaroid-st
 
 ## 🖼️ Preview
 <img width="795" height="896" alt="Screenshot 2026-05-02 222812" src="https://github.com/user-attachments/assets/837f5e58-6562-4326-98b8-d9f1fb3ac38a" />
-<img width="729" height="915" alt="Screenshot 2026-05-02 222825" src="https://github.com/user-attachments/assets/5665896a-68f2-4246-a442-f55d98846042" />
+---
+<img width="795" height="896" alt="Screenshot 2026-05-02 222825" src="https://github.com/user-attachments/assets/5665896a-68f2-4246-a442-f55d98846042" />
 
 
 ---
